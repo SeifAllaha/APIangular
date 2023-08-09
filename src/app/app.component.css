@@ -1,0 +1,42 @@
+
+nav form {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+nav input[type="text"] {
+  height: 30px;
+  padding: 0 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+nav input[type="submit"] {
+  height: 30px;
+  padding: 0 10px;
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+nav .lang-link {
+  display: inline-block;
+  width: 30px;
+  height: 20px;
+  margin: 0 10px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+nav .lang-link img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

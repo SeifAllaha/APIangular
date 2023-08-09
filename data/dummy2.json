@@ -1,0 +1,37 @@
+{
+  "studnent": [
+    {
+      "Name": "seif allah ",
+      "Age": 18,
+      "Level": 2,
+      "GPA": 2.5,
+      "id": 1
+    },
+    {
+      "Name": "mohmed ahmed ",
+      "Age": 19,
+      "Level": 3,
+      "GPA": 3,
+      "id": 2
+    }
+  ],
+  "doctor": [
+    {
+      "id": 1,
+      "Name": "ahmed",
+      "Cource": " full stack"
+    },
+    {
+      "Name": "ahmed mohmed",
+      "Cource": "vvvvvv",
+      "id": 2
+    }
+  ],
+  "cource": [
+    {
+        "id":1,
+        "NameCource": "ahmed",
+        "DocterName":  "Ahmed"
+    }
+]
+}
